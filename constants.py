@@ -1,0 +1,14 @@
+# Tile code
+EMPTY = 0
+OBSTACLE = 1
+START = 2
+GOAL = 3
+TRAIL = 4
+QUICKSAND = 5
+QS_STEPPED = 6
+
+# Action codes
+UP = 0
+DOWN = 1
+LEFT = 2
+RIGHT = 3
